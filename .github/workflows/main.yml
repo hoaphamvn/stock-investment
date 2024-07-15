@@ -3,8 +3,8 @@ name: "Update stock data everyday"
 on:
   workflow_dispatch:
   schedule:
-    -   cron: "30 4 * * *"
-    -   cron: "45 7 * * *"
+    -   cron: "15 13 * * *"
+    -   cron: "45 23 * * *"
 
 jobs:
   export-jpegs:
