@@ -27,7 +27,15 @@
   - [MT](#port_mt)
 - [Forex](#forex)
 - [Crypto](#crypto)
-- [US](#us)
+- [US_TECH](#us_tech)
+- [US_UTILITIES](#us_utilities)
+- [US_INDUSTRIALS](#us_industrials)
+- [US_REAL_ESTATE](#us_real_estate)
+- [US_HEALTHCARE](#us_healthcare)
+- [US_FINANCIALSERVICES](#us_financialservices)
+- [US_ENERGY](#us_energy)
+- [US_BASIC_MATERIALS](#us_basic_materials)
+- [US_CONSUMER_DEF](#us_consumer_def)
 
 # INDEX
 !["INDEX_0"](images/INDEX_0.jpg)
