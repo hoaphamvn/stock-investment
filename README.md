@@ -21,10 +21,6 @@
 - [Y tế](#y_te)
 - [Danh mục](#danh_muc)
   - [GROUP_BIG_CAP](#port_group_big_cap)
-  - [GROUP_TOP_1](#port_group_top_1)
-  - [LONG_TERM](#port_long_term)
-  - [QH](#port_qh)
-  - [MT](#port_mt)
 - [Forex](#forex)
 - [Crypto](#crypto)
 - [US_TECH](#us_tech)
@@ -161,33 +157,6 @@
 !["PORT_GROUP_BIG_CAP_1"](images/PORT_GROUP_BIG_CAP_1.jpg)
 !["PORT_GROUP_BIG_CAP_2"](images/PORT_GROUP_BIG_CAP_2.jpg)
 !["PORT_GROUP_BIG_CAP_3"](images/PORT_GROUP_BIG_CAP_3.jpg)
-
-## PORT_GROUP_TOP_1
-"TCB", "DHT", "TCH", "BVS", "VGT", "MCH", "KSV", "VCS",
-"POW", "BSR", "ACV", "CMG", "MIG", "DCM", "HAX", "SCS", "FOX"
-!["PORT_GROUP_TOP_1_0"](images/PORT_GROUP_TOP_1_0.jpg)
-!["PORT_GROUP_TOP_1_1"](images/PORT_GROUP_TOP_1_1.jpg)
-!["PORT_GROUP_TOP_1_2"](images/PORT_GROUP_TOP_1_2.jpg)
-!["PORT_GROUP_TOP_1_3"](images/PORT_GROUP_TOP_1_3.jpg)
-
-## PORT_LONG_TERM
-"LPB", "NTL", "MWG", "DCM", "FPT", "TCM"
-!["PORT_LONG_TERM_0"](images/PORT_LONG_TERM_0.jpg)
-!["PORT_LONG_TERM_1"](images/PORT_LONG_TERM_1.jpg)
-!["PORT_LONG_TERM_2"](images/PORT_LONG_TERM_2.jpg)
-!["PORT_LONG_TERM_3"](images/PORT_LONG_TERM_3.jpg)
-
-## PORT_QH
-!["PORT_QH_0"](images/PORT_QH_0.jpg)
-!["PORT_QH_1"](images/PORT_QH_1.jpg)
-!["PORT_QH_2"](images/PORT_QH_2.jpg)
-!["PORT_QH_3"](images/PORT_QH_3.jpg)
-
-## PORT_MT
-!["PORT_MT_0"](images/PORT_MT_0.jpg)
-!["PORT_MT_1"](images/PORT_MT_1.jpg)
-!["PORT_MT_2"](images/PORT_MT_2.jpg)
-!["PORT_MT_3"](images/PORT_MT_3.jpg)
 
 # FOREX
 !["FOREX_0"](images/FOREX_0.jpg)
