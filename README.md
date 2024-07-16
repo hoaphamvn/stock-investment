@@ -1,5 +1,13 @@
 # Table of Contents
-
+- [US_TECH](#us_tech)
+- [US_UTILITIES](#us_utilities)
+- [US_INDUSTRIALS](#us_industrials)
+- [US_REAL_ESTATE](#us_real_estate)
+- [US_HEALTHCARE](#us_healthcare)
+- [US_FINANCIALSERVICES](#us_financialservices)
+- [US_ENERGY](#us_energy)
+- [US_BASIC_MATERIALS](#us_basic_materials)
+- [US_CONSUMER_DEF](#us_consumer_def)
 - [Index](#index)
 - [Ngân hàng](#ngan_hang)
 - [Bán lẻ](#ban_le)
@@ -23,15 +31,60 @@
   - [GROUP_BIG_CAP](#port_group_big_cap)
 - [Forex](#forex)
 - [Crypto](#crypto)
-- [US_TECH](#us_tech)
-- [US_UTILITIES](#us_utilities)
-- [US_INDUSTRIALS](#us_industrials)
-- [US_REAL_ESTATE](#us_real_estate)
-- [US_HEALTHCARE](#us_healthcare)
-- [US_FINANCIALSERVICES](#us_financialservices)
-- [US_ENERGY](#us_energy)
-- [US_BASIC_MATERIALS](#us_basic_materials)
-- [US_CONSUMER_DEF](#us_consumer_def)
+
+# US_TECH
+!["US_TECH_0"](images/US_TECH_0.jpg)
+!["US_TECH_1"](images/US_TECH_1.jpg)
+!["US_TECH_2"](images/US_TECH_2.jpg)
+!["US_TECH_3"](images/US_TECH_3.jpg)
+
+# US_UTILITIES
+!["US_UTILITIES_0"](images/US_UTILITIES_0.jpg)
+!["US_UTILITIES_1"](images/US_UTILITIES_1.jpg)
+!["US_UTILITIES_2"](images/US_UTILITIES_2.jpg)
+!["US_UTILITIES_3"](images/US_UTILITIES_3.jpg)
+
+# US_INDUSTRIALS
+!["US_INDUSTRIALS_0"](images/US_INDUSTRIALS_0.jpg)
+!["US_INDUSTRIALS_1"](images/US_INDUSTRIALS_1.jpg)
+!["US_INDUSTRIALS_2"](images/US_INDUSTRIALS_2.jpg)
+!["US_INDUSTRIALS_3"](images/US_INDUSTRIALS_3.jpg)
+
+# US_REAL_ESTATE
+!["US_REAL_ESTATE_0"](images/US_REAL_ESTATE_0.jpg)
+!["US_REAL_ESTATE_1"](images/US_REAL_ESTATE_1.jpg)
+!["US_REAL_ESTATE_2"](images/US_REAL_ESTATE_2.jpg)
+!["US_REAL_ESTATE_3"](images/US_REAL_ESTATE_3.jpg)
+
+# US_HEALTHCARE
+!["US_HEALTHCARE_0"](images/US_HEALTHCARE_0.jpg)
+!["US_HEALTHCARE_1"](images/US_HEALTHCARE_1.jpg)
+!["US_HEALTHCARE_2"](images/US_HEALTHCARE_2.jpg)
+!["US_HEALTHCARE_3"](images/US_HEALTHCARE_3.jpg)
+
+# US_FINANCIALSERVICES
+!["US_FINANCIALSERVICES_0"](images/US_FINANCIALSERVICES_0.jpg)
+!["US_FINANCIALSERVICES_1"](images/US_FINANCIALSERVICES_1.jpg)
+!["US_FINANCIALSERVICES_2"](images/US_FINANCIALSERVICES_2.jpg)
+!["US_FINANCIALSERVICES_3"](images/US_FINANCIALSERVICES_3.jpg)
+
+# US_ENERGY
+!["US_ENERGY_0"](images/US_ENERGY_0.jpg)
+!["US_ENERGY_1"](images/US_ENERGY_1.jpg)
+!["US_ENERGY_2"](images/US_ENERGY_2.jpg)
+!["US_ENERGY_3"](images/US_ENERGY_3.jpg)
+
+# US_BASIC_MATERIALS
+!["US_BASIC_MATERIALS_0"](images/US_BASIC_MATERIALS_0.jpg)
+!["US_BASIC_MATERIALS_1"](images/US_BASIC_MATERIALS_1.jpg)
+!["US_BASIC_MATERIALS_2"](images/US_BASIC_MATERIALS_2.jpg)
+!["US_BASIC_MATERIALS_3"](images/US_BASIC_MATERIALS_3.jpg)
+
+# US_CONSUMER_DEF
+!["US_CONSUMER_DEF_0"](images/US_CONSUMER_DEF_0.jpg)
+!["US_CONSUMER_DEF_1"](images/US_CONSUMER_DEF_1.jpg)
+!["US_CONSUMER_DEF_2"](images/US_CONSUMER_DEF_2.jpg)
+!["US_CONSUMER_DEF_3"](images/US_CONSUMER_DEF_3.jpg)
 
 # INDEX
 !["INDEX_0"](images/INDEX_0.jpg)
@@ -169,57 +222,3 @@
 !["CRYPTO_1"](images/CRYPTO_1.jpg)
 !["CRYPTO_2"](images/CRYPTO_2.jpg)
 !["CRYPTO_3"](images/CRYPTO_3.jpg)
-
-# US_TECH
-!["US_TECH_0"](images/US_TECH_0.jpg)
-!["US_TECH_1"](images/US_TECH_1.jpg)
-!["US_TECH_2"](images/US_TECH_2.jpg)
-!["US_TECH_3"](images/US_TECH_3.jpg)
-
-# US_UTILITIES
-!["US_UTILITIES_0"](images/US_UTILITIES_0.jpg)
-!["US_UTILITIES_1"](images/US_UTILITIES_1.jpg)
-!["US_UTILITIES_2"](images/US_UTILITIES_2.jpg)
-!["US_UTILITIES_3"](images/US_UTILITIES_3.jpg)
-
-# US_INDUSTRIALS
-!["US_INDUSTRIALS_0"](images/US_INDUSTRIALS_0.jpg)
-!["US_INDUSTRIALS_1"](images/US_INDUSTRIALS_1.jpg)
-!["US_INDUSTRIALS_2"](images/US_INDUSTRIALS_2.jpg)
-!["US_INDUSTRIALS_3"](images/US_INDUSTRIALS_3.jpg)
-
-# US_REAL_ESTATE
-!["US_REAL_ESTATE_0"](images/US_REAL_ESTATE_0.jpg)
-!["US_REAL_ESTATE_1"](images/US_REAL_ESTATE_1.jpg)
-!["US_REAL_ESTATE_2"](images/US_REAL_ESTATE_2.jpg)
-!["US_REAL_ESTATE_3"](images/US_REAL_ESTATE_3.jpg)
-
-# US_HEALTHCARE
-!["US_HEALTHCARE_0"](images/US_HEALTHCARE_0.jpg)
-!["US_HEALTHCARE_1"](images/US_HEALTHCARE_1.jpg)
-!["US_HEALTHCARE_2"](images/US_HEALTHCARE_2.jpg)
-!["US_HEALTHCARE_3"](images/US_HEALTHCARE_3.jpg)
-
-# US_FINANCIALSERVICES
-!["US_FINANCIALSERVICES_0"](images/US_FINANCIALSERVICES_0.jpg)
-!["US_FINANCIALSERVICES_1"](images/US_FINANCIALSERVICES_1.jpg)
-!["US_FINANCIALSERVICES_2"](images/US_FINANCIALSERVICES_2.jpg)
-!["US_FINANCIALSERVICES_3"](images/US_FINANCIALSERVICES_3.jpg)
-
-# US_ENERGY
-!["US_ENERGY_0"](images/US_ENERGY_0.jpg)
-!["US_ENERGY_1"](images/US_ENERGY_1.jpg)
-!["US_ENERGY_2"](images/US_ENERGY_2.jpg)
-!["US_ENERGY_3"](images/US_ENERGY_3.jpg)
-
-# US_BASIC_MATERIALS
-!["US_BASIC_MATERIALS_0"](images/US_BASIC_MATERIALS_0.jpg)
-!["US_BASIC_MATERIALS_1"](images/US_BASIC_MATERIALS_1.jpg)
-!["US_BASIC_MATERIALS_2"](images/US_BASIC_MATERIALS_2.jpg)
-!["US_BASIC_MATERIALS_3"](images/US_BASIC_MATERIALS_3.jpg)
-
-# US_CONSUMER_DEF
-!["US_CONSUMER_DEF_0"](images/US_CONSUMER_DEF_0.jpg)
-!["US_CONSUMER_DEF_1"](images/US_CONSUMER_DEF_1.jpg)
-!["US_CONSUMER_DEF_2"](images/US_CONSUMER_DEF_2.jpg)
-!["US_CONSUMER_DEF_3"](images/US_CONSUMER_DEF_3.jpg)
