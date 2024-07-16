@@ -51,9 +51,7 @@ def get_data(symbol, origin_date, end_date, start_date="2024-01-01", group=None)
         print("Error {}: is_vnstock = {} {} {} {}".format(e, is_vnstock, symbol, origin_date, end_date))
         return None
     # convert time to format yyyy-mm-dd
-    df["time"] = df["time"].dt.strftime('%Y-%m-%d')
-
-    is_crypto = group == "CRYPTO"
+    df["time_str"] = df["time"].dt.strftime('%Y-%m-%d')
 
     origin_date_str = origin_date
     err = None
@@ -63,17 +61,16 @@ def get_data(symbol, origin_date, end_date, start_date="2024-01-01", group=None)
             cur_date = cur_date - relativedelta(days=offset)
             origin_date_str = cur_date.strftime('%Y-%m-%d')
         try:
-            origin_close = float(df[df["time"] == origin_date_str]["close"].iloc[0])
+            origin_close = float(df[df["time_str"] == origin_date_str]["close"].iloc[0])
             scale = origin_close / 100
             data = df[["time", "close"]]
             data["close"] = data["close"].div(scale)
             if offset > 0:
                 print("Fixed symbol {} with offset = {} new_date = {}".format(symbol, offset, origin_date_str))
-            return data[data["time"] >= origin_date_str]
+            dt_origin_date_str = datetime.strptime(origin_date_str, '%Y-%m-%d')
+            return data[data["time"] >= dt_origin_date_str]
         except Exception as e:
             err = e
-            if not is_crypto:
-                break
     print("Error with df:\n{}".format(df))
     print("Error {}: is_vnstock {} {} {} {}".format(err, is_vnstock, symbol, origin_date, end_date))
     return None
