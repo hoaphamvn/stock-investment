@@ -1,3 +1,9 @@
-vnstock3
+vnstock
 matplotlib
+mplfinance
 seaborn
+tenacity
+IPython
+requests
+beautifulsoup4
+pillow
