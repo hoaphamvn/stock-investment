@@ -243,7 +243,7 @@ if not DEBUG:
 
         base_data_ticker = data_ticker.copy()
 
-        SPECIAL_TICKERS += [x for x in configs["PORT_LONG_TERM"] if x not in SPECIAL_TICKERS]
+        # SPECIAL_TICKERS += [x for x in configs["PORT_LONG_TERM"] if x not in SPECIAL_TICKERS]
 
         fp = open("README_TICKERS.md", "w")
 
